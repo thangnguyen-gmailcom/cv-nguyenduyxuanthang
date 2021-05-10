@@ -153,6 +153,9 @@
 .review {
   margin-left: 10px;
   margin-top: auto;
+  font-size: 17px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 30px;
 }
 
 .show {
